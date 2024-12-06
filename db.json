@@ -1,0 +1,179 @@
+{
+  "categories": [
+    {
+      "id": null,
+      "title": "Все"
+    },
+    {
+      "id": "2",
+      "title": "Мясные"
+    },
+    {
+      "id": "3",
+      "title": "Вегетарианская"
+    },
+    {
+      "id": "4",
+      "title": "Гриль"
+    },
+    {
+      "id": "5",
+      "title": "Острые"
+    },
+    {
+      "id": "6",
+      "title": "Закрытые"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "categoryId": "2",
+      "imgUrl": "https://img.povar.ru/main-micro/6f/6f/d6/4a/picca_quotchizburgerquot-688938.jpg",
+      "name": "Чизбургер-пицца",
+      "type": [
+        "тонкое",
+        "традиционное"
+      ],
+      "size": [
+        "26 см.",
+        "30 см.",
+        "40 см."
+      ],
+      "price": 395,
+      "orderCount": 0
+    },
+    {
+      "id": "2",
+      "categoryId": "3",
+      "imgUrl": "https://passionecoltelli.com/wp-content/uploads/2015/12/Tagliere-per-pizza-9.jpg",
+      "name": "Сырная",
+      "type": [
+        "тонкое",
+        "традиционное"
+      ],
+      "size": [
+        "26 см."
+      ],
+      "price": 450,
+      "orderCount": 0
+    },
+    {
+      "id": "3",
+      "categoryId": "4",
+      "imgUrl": "https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/1652821/S2PjtVcKu2mEY4oJrIH0wQ.jpg",
+      "name": "Креветки по-азиатски",
+      "type": [
+        "тонкое",
+        "традиционное"
+      ],
+      "size": [
+        "30 см."
+      ],
+      "price": 290,
+      "orderCount": 0
+    },
+    {
+      "id": "4",
+      "categoryId": "5",
+      "imgUrl": "https://foodsonic.ru/upload/resize_cache/iblock/0d5/500_500_140cd750bba9870f18aada2478b24840a/0d53b6df8171c31d6733b1d466bc9bd7.png",
+      "name": "Сырный цыпленок",
+      "type": [
+        "тонкое",
+        "традиционное"
+      ],
+      "size": [
+        "26 см.",
+        "30 см.",
+        "40 см."
+      ],
+      "price": 385,
+      "orderCount": 0
+    },
+    {
+      "id": "5",
+      "categoryId": "6",
+      "imgUrl": "https://1.bp.blogspot.com/-mURFUhuk52M/WQpjfmOqQNI/AAAAAAAAJBI/WAMnFscc8RQ6oVLBAm2UUi5Yiobr2djQACK4B/s1600/image-753851.jpg",
+      "name": "Чизбургер-пицца",
+      "type": [
+        "тонкое",
+        "традиционное"
+      ],
+      "size": [
+        "26 см.",
+        "30 см.",
+        "40 см."
+      ],
+      "price": 395,
+      "orderCount": 0
+    },
+    {
+      "id": "6",
+      "categoryId": "7",
+      "imgUrl": "https://www.publicdomainpictures.net/pictures/440000/nahled/cheese-pizza-1646824801cFP.jpg",
+      "name": "Сырная",
+      "type": [
+        "тонкое",
+        "традиционное"
+      ],
+      "size": [
+        "26 см.",
+        "30 см.",
+        "40 см."
+      ],
+      "price": 450,
+      "orderCount": 0
+    },
+    {
+      "id": "7",
+      "categoryId": "8",
+      "imgUrl": "https://irecommend.ru/sites/default/files/imagecache/copyright1/user-images/1652821/PLdjLk9qJHtYZFAwYQ0oRQ.jpg",
+      "name": "Креветки по-азиатски",
+      "type": [
+        "тонкое",
+        "традиционное"
+      ],
+      "size": [
+        "26 см.",
+        "30 см.",
+        "40 см."
+      ],
+      "price": 290,
+      "orderCount": 0
+    },
+    {
+      "id": "8",
+      "categoryId": "9",
+      "imgUrl": "https://i0.wp.com/midafood.net/wp-content/uploads/2023/03/41f8f0f8-ca95-46e0-8cf0-1e91cefa6c76.jpg?fit=1280%2C1280&ssl=1",
+      "name": "Сырный цыпленок",
+      "type": [
+        "тонкое",
+        "традиционное"
+      ],
+      "size": [
+        "26 см.",
+        "30 см.",
+        "40 см."
+      ],
+      "price": 385,
+      "orderCount": 0
+    },
+    {
+      "id": "7d2c",
+      "categoryId": "2",
+      "imgUrl": "https://img.povar.ru/main-micro/6f/6f/d6/4a/picca_quotchizburgerquot-688938.jpg",
+      "name": "Peperovny",
+      "type": [
+        "тонкое",
+        "традиционное"
+      ],
+      "size": [
+        "30 см.",
+        "26 см.",
+        "40 см."
+      ],
+      "price": 350,
+      "orderCount": 0
+    }
+  ]
+}
